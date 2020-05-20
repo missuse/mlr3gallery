@@ -102,3 +102,8 @@ $RECYCLE.BIN/
 
 _posts/**/*.html
 _posts/**/**_files
+.ccache
+.Rproj.user
+
+docs/posts/posts.json
+docs/sitemap.xml
